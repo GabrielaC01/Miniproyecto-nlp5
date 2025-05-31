@@ -1,0 +1,5 @@
+.ven/
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+*.txt
